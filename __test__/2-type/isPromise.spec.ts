@@ -2,7 +2,7 @@
  * isPromise.spec.ts
  *
  * created by 2024/4/23
- * @file FILE_DESCRIPTION
+ * @file isPromise 测试用例
  * @author  Yiero
  * */
 
