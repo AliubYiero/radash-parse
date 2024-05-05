@@ -54,7 +54,7 @@ const groupObj = group( list, getGroupIdFn );
 - `getGroupIdFn`: 
   对数组中的每个元素执行的函数. 它应该返回一个值, 可以被强制转换成属性键 (字符串, 数字或 [symbol](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Symbol)) , 用于指示当前元素所属的分组. 该函数被调用时将传入以下参数: 
 
-> `item`: 数组中当前正在处理的元素. 
+> - `item`: 数组中当前正在处理的元素. 
 
 
 
